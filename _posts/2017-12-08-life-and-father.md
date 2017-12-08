@@ -1,9 +1,9 @@
 ﻿---
 layout: post
-title: "father told me"
-date: 2017-12-08
-excerpt: "father"
-tags: [life, father, great]
+title: "Testing Readability with a Bunch of Text"
+date: 2012-05-22
+excerpt: "A ton of text to test readability."
+tags: [sample post, readability, test]
 comments: true
 ---
 
