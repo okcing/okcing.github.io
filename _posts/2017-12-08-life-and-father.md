@@ -1,9 +1,9 @@
 ﻿---
 layout: post
-title: "父亲大人和我"
+title: "father told me"
 date: 2017-12-08
-excerpt: "父亲大人"
-tags: [生活, 父亲大人, 优秀]
+excerpt: "father"
+tags: [life, father, great]
 comments: true
 ---
 
